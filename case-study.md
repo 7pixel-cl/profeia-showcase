@@ -22,6 +22,8 @@ summary: "A study platform for the ECEP teacher-evaluation exam. It runs a diagn
 
 [**Live website**](https://profeia.cl) · [**Application**](https://app.profeia.cl) · [Marco Alvarado](https://github.com/7pixel-cl) · [Portfolio](https://7pixel.cl) · [LinkedIn](https://www.linkedin.com/in/marcoalvaradot/)
 
+**[Read the full case study online →](https://7pixel-cl.github.io/profeia-showcase/)**
+
 > Production source is private. This repository is a public case study with approved imagery. It contains no code, learner records, or exam content.
 
 ![ProfeIA public product view](images/profeia-interface.png)
